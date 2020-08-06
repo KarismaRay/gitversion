@@ -68,7 +68,7 @@
                     <!-- or b) comment in the following snippet: -->
 					<!--<authConfig>-->
 						<!--<username>pkw0301</username>-->
-						<!--<password>Mintu@123</password>-->
+						<!--<password>docker123</password>-->
 					<!--</authConfig>-->
 					<images>
 						<image>
